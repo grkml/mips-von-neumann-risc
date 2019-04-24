@@ -1,6 +1,6 @@
 # Author:       Gurkamal Singh
 # Date:         April 23, 2019
-# Description:  The MIPS version of "Hello World!""
+# Description:  The MIPS version of "Hello World!"
 
                 .data           # Data Declarations...load string into memory
                                 asdf
