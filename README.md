@@ -23,7 +23,7 @@ The first MIPS CPU was released in 1981 and has since grown into a family of 32-
 #### Doubleword (64 bits)
 * Java ```double```
 
-## Von Neumann architecture
+## Von Neumann Architecture
 The MIPS CPU follows Von Neumann architecture and only keeps 32 registers (data storage locations) in the CPU itself. During operation data is stored to and loaded from memory as needed, "spilling" or emptying the registers in the process.
 <p align="center">
   <img width="40%" src="https://github.com/gurkamalpsc/mips-risc-architecture/blob/master/img/von_neumann.jpg">
@@ -32,7 +32,7 @@ The MIPS CPU follows Von Neumann architecture and only keeps 32 registers (data 
   Von Neumann Model
 </p>
 
-## The 32 Registers in a MIPS CPU
+## 32 Registers in a MIPS CPU
 
 | Register | Mnemonic Name | Purpose |
 | -------- | ------------- | ------------------|
@@ -49,7 +49,7 @@ The MIPS CPU follows Von Neumann architecture and only keeps 32 registers (data 
 | 30       | $s8 or $fp    | (saved value / frame pointer) Preserved across procedure calls |
 | 31       | $ra           | (return address) |
 
-## MIPS Assembly Language Structure (.s or .asm file)
+## MIPS Assembly Language Structure (.asm files)
 ```
 # example.asm
 #
