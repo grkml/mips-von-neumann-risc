@@ -1,4 +1,4 @@
-# MIPS CPU Architecture
+# MIPS CPU RISC Architecture
 The first MIPS CPU was released in 1981 and has since grown into a family of 32-bit and 64-bit CPUs, each one improving performance and adding functionality over the previous releases. The MIPS architecture is a very clean and elegant RISC architecture. Today, MIPS implementations are primarily used in embedded systems such as Windows CE devices, home routers, and video game consoles.
 
 <p align="center">
