@@ -33,6 +33,7 @@ The MIPS CPU follows Von Neumann architecture and only keeps 32 registers (data 
 </p>
 
 ## 32 Registers in a MIPS CPU
+A MIPS CPU has 32 locations that it can store data. The registers are similar to variables in a programming language. In fact, when a language such as C++ or Java compiles to assembly, variables names are designated register or memory locations at various points in the program.
 
 | Register | Mnemonic Name | Purpose |
 | -------- | ------------- | ------------------|
