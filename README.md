@@ -2,7 +2,7 @@
 The MIPS (Microprocessor without Interlocked Pipeline Stages) Assembly language is designed to work with the MIPS microprocessor paradigm designed by J. L. Hennessy in 1981. These RISC microprocessors have grown into a family of 32-bit and 64-bit CPUs, each one improving performance and adding functionality over the previous releases. Today, MIPS implementations are primarily used in embedded systems such as Windows CE devices, home routers, and video game consoles. Tesla even uses a MIPS-based Mobileye EyeQ3 computer vision chip that allows autonomous driving capabilities in the Model S!
 
 <p align="center">
-  <img width="60%" src="https://github.com/gurkamalpsc/mips-risc-architecture/blob/master/img/sony_playstation_mips.jpg">
+  <img width="60%" src="https://github.com/gurkamalpsc/mips-von-neumann-risc/blob/master/img/sony_playstation_mips.jpg">
 </p>
 <p align="center">
   Fun Fact - The original PlayStation integrated a MIPS R3000A 33.86 MHz CPU
@@ -26,7 +26,7 @@ The MIPS (Microprocessor without Interlocked Pipeline Stages) Assembly language 
 ## Von Neumann Architecture
 The MIPS CPU follows Von Neumann architecture and only keeps 32 registers (data storage locations) in the CPU itself. During operation data is stored to and loaded from memory as needed, "spilling" or emptying the registers in the process.
 <p align="center">
-  <img width="40%" src="https://github.com/gurkamalpsc/mips-risc-architecture/blob/master/img/von_neumann.jpg">
+  <img width="40%" src="https://github.com/gurkamalpsc/mips-von-neumann-risc/blob/master/img/von_neumann.jpg">
 </p>
 <p align="center">
   Von Neumann Model
